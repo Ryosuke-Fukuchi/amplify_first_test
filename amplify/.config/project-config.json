@@ -1,0 +1,17 @@
+{
+  "providers": [
+    "awscloudformation"
+  ],
+  "projectName": "amplifyfirsttest",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react",
+    "config": {
+      "SourceDir": "src/ui-components",
+      "DistributionDir": "ui-components",
+      "BuildCommand": "build",
+      "StartCommand": "start"
+    }
+  }
+}
