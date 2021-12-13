@@ -1,5 +1,5 @@
 import "./App.css";
-import { Ampligram } from "./ui-components/ui-components";
+import { Ampligram } from "./ui-components";
 
 function App() {
   return (
